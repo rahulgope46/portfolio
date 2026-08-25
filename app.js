@@ -13,7 +13,13 @@ function login({ name }) {
 
     // response
 
-    // success -> redirect social media connect page
+    // switch statement
+    // to check login with which social media
+    // facebook -> facebook login
+    // google -> google login
+    // twitter -> twitter login
+
+    // success -> redirect connect page
     // failure -> error show
 }
 
