@@ -4,24 +4,28 @@ function greet(name) {
     console.log("Hello", name);
 }
 
+// login -> with password
+// login -> with otp
+// login -> with social media
+
 function login({ name }) {
     // network calls with required data i.e. name
 
     // response
 
-    // success -> redirect to otp enter page
+    // success -> redirect social media connect page
     // failure -> error show
 }
 
-function verifyOTP({ otp }) {
-    // newtwork call -> otp
+function verifyConnection() {
+    // newtwork call
     // header token appended
 
     // response
 
     // success -> redirect to home page
-    // failure -> give another chance to enter otp
+    // failure -> give another chance connect social media
 }
 
 // login
-// verifyOTP
+// verify connection
