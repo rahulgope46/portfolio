@@ -1,7 +1,7 @@
 console.log("Hello world!");
 
 function greet(name) {
-    console.log("Hello world from main");
+    console.log("Hi there!");
 }
 
 // login -> with password
