@@ -38,4 +38,5 @@ function verifyConnection() {
 
 function print(data){
     console.log(data);
+    return null;
 }
