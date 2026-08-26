@@ -1,7 +1,7 @@
 console.log("Hello world!");
 
 function greet(name) {
-    console.log("Hi there 2!");
+    console.log("Hi there 1!");
 }
 
 // login -> with password
@@ -37,6 +37,5 @@ function verifyConnection() {
 // verify connection
 
 function print(data){
-    console.log(data);
-    return null;
+    console.log(">>>", data);
 }
