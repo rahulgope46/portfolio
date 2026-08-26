@@ -35,3 +35,7 @@ function verifyConnection() {
 
 // login
 // verify connection
+
+function print(data){
+    console.log(data);
+}
